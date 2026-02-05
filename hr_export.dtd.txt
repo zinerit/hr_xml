@@ -1,0 +1,14 @@
+<!ELEMENT hrExport (rows, control)>
+<!ATTLIST hrExport table CDATA #REQUIRED exportedAt CDATA #REQUIRED>
+<!ELEMENT rows (row+)>
+<!ELEMENT row (DEPARTMENT_ID, DEPARTMENT_NAME, MANAGER_ID, LOCATION_ID)>
+<!ELEMENT DEPARTMENT_ID (#PCDATA)>
+<!ELEMENT DEPARTMENT_NAME (#PCDATA)>
+<!ELEMENT MANAGER_ID (#PCDATA)>
+<!ELEMENT LOCATION_ID (#PCDATA)>
+<!ELEMENT control (rowCount, columnCount, minId, maxId, checksum)>
+<!ELEMENT rowCount (#PCDATA)>
+<!ELEMENT columnCount (#PCDATA)>
+<!ELEMENT minId (#PCDATA)>
+<!ELEMENT maxId (#PCDATA)>
+<!ELEMENT checksum (#PCDATA)>

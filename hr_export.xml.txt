@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hrExport SYSTEM "hr_export.dtd">
+<hrExport table="departments" exportedAt="2026-02-05T12:00:00+01:00">
+  <rows>
+    <row>
+      <DEPARTMENT_ID>10</DEPARTMENT_ID>
+      <DEPARTMENT_NAME>Administration</DEPARTMENT_NAME>
+      <MANAGER_ID>200</MANAGER_ID>
+      <LOCATION_ID>1700</LOCATION_ID>
+    </row>
+    <row>
+      <DEPARTMENT_ID>20</DEPARTMENT_ID>
+      <DEPARTMENT_NAME>Marketing</DEPARTMENT_NAME>
+      <MANAGER_ID>201</MANAGER_ID>
+      <LOCATION_ID>1800</LOCATION_ID>
+    </row>
+    <row>
+      <DEPARTMENT_ID>30</DEPARTMENT_ID>
+      <DEPARTMENT_NAME>Purchasing</DEPARTMENT_NAME>
+      <MANAGER_ID>114</MANAGER_ID>
+      <LOCATION_ID>1700</LOCATION_ID>
+    </row>
+    <row>
+      <DEPARTMENT_ID>40</DEPARTMENT_ID>
+      <DEPARTMENT_NAME>Human Resources</DEPARTMENT_NAME>
+      <MANAGER_ID>203</MANAGER_ID>
+      <LOCATION_ID>2400</LOCATION_ID>
+    </row>
+    <row>
+      <DEPARTMENT_ID>50</DEPARTMENT_ID>
+      <DEPARTMENT_NAME>Shipping</DEPARTMENT_NAME>
+      <MANAGER_ID>121</MANAGER_ID>
+      <LOCATION_ID>1500</LOCATION_ID>
+    </row>
+    <row>
+      <DEPARTMENT_ID>60</DEPARTMENT_ID>
+      <DEPARTMENT_NAME>IT</DEPARTMENT_NAME>
+      <MANAGER_ID>103</MANAGER_ID>
+      <LOCATION_ID>1400</LOCATION_ID>
+    </row>
+    <row>
+      <DEPARTMENT_ID>70</DEPARTMENT_ID>
+      <DEPARTMENT_NAME>Public Relations</DEPARTMENT_NAME>
+      <MANAGER_ID>204</MANAGER_ID>
+      <LOCATION_ID>2700</LOCATION_ID>
+    </row>
+    <row>
+      <DEPARTMENT_ID>80</DEPARTMENT_ID>
+      <DEPARTMENT_NAME>Sales</DEPARTMENT_NAME>
+      <MANAGER_ID>145</MANAGER_ID>
+      <LOCATION_ID>2500</LOCATION_ID>
+    </row>
+    <row>
+      <DEPARTMENT_ID>90</DEPARTMENT_ID>
+      <DEPARTMENT_NAME>Executive</DEPARTMENT_NAME>
+      <MANAGER_ID>100</MANAGER_ID>
+      <LOCATION_ID>1700</LOCATION_ID>
+    </row>
+    <row>
+      <DEPARTMENT_ID>100</DEPARTMENT_ID>
+      <DEPARTMENT_NAME>Finance</DEPARTMENT_NAME>
+      <MANAGER_ID>108</MANAGER_ID>
+      <LOCATION_ID>1700</LOCATION_ID>
+    </row>
+  </rows>
+  <control>
+    <rowCount>10</rowCount>
+    <columnCount>4</columnCount>
+    <minId>10</minId>
+    <maxId>100</maxId>
+    <checksum>1424</checksum>
+  </control>
+</hrExport>
